@@ -1,1 +1,2 @@
 # node-express-handlebars
+Created a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). I used Node and MySQL to query and route data in the app, and Handlebars to generate your HTML.
